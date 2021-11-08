@@ -1,1 +1,2 @@
 # MovieLens_Challenge
+The purpose of this project here is to pull data from kaggle.com and wikipedia to put all the movies in one database.  I had to clean the data and compile it into one big database with all the movies an their ratings.  Now unfortunately, the file sizes for the CSV databases were too big, so I had to compress it into a zip file. So hopefully, it's fine, and everything is all there in my assigment.
